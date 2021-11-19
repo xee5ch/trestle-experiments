@@ -1,0 +1,11 @@
+# cp-6 - \[Contingency Planning\] Alternate Storage Site
+
+## Control Statement
+
+- \[a\] Establish an alternate storage site, including necessary agreements to permit the storage and retrieval of system backup information; and
+
+- \[b\] Ensure that the alternate storage site provides controls equivalent to that of the primary site.
+
+## Control guidance
+
+Alternate storage sites are sites that are geographically distinct from primary storage sites and that maintain duplicate copies of information and data if the primary storage site is not available. In contrast to alternate storage sites, alternate processing sites provide processing capability if the primary processing site is not available. Geographically distributed architectures that support contingency requirements may also be considered as alternate storage sites. Items covered by alternate storage site agreements include environmental conditions at the alternate sites, access rules for systems and facilities, physical and environmental protection requirements, and coordination of delivery and retrieval of backup media. Alternate storage sites reflect the requirements in contingency plans so that organizations can maintain essential missions and business functions despite disruption, compromise, or failure in organizational systems.
